@@ -1,0 +1,6 @@
+Report.docx
+Report.pdf
+*.txt
+*.exe
+*.o
+/.vscode
