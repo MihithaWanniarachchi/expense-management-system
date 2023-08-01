@@ -1,5 +1,5 @@
-Report.docx
-Report.pdf
+*.docx
+*.pdf
 *.txt
 *.exe
 *.o
